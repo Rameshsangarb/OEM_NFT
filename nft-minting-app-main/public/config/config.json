@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa99b75CB96D511a87265578bd9a22cC54464AD41",
+  "SCAN_LINK": "https://polygonscan.com/address/0xa99b75cb96d511a87265578bd9a22cc54464ad41",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "One_Eye_Monster",
+  "SYMBOL": "OEM_NFT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/one-eye-monster-2",
+  "SHOW_BACKGROUND": true
+}
